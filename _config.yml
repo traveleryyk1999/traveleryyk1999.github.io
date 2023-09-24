@@ -105,7 +105,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
